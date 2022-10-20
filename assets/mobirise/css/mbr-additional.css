@@ -1177,6 +1177,40 @@ a {
   padding-bottom: 7rem;
   background-color: #ffffff;
 }
+.cid-tkOOfZR1sx {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #fafafa;
+}
+.cid-tkOOfZR1sx .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tkOOfZR1sx .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tkOOfZR1sx .mbr-iconfont {
+  display: block;
+  font-size: 4rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-tkOOfZR1sx .card-wrapper {
+  min-height: 220px;
+  transition: all 0.3s;
+  border-radius: 4px;
+  padding: 1rem;
+  background: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
 .cid-sFzIdnt1ra {
   padding-top: 8rem;
   padding-bottom: 1rem;
@@ -1422,72 +1456,9 @@ a {
 .cid-sFAxp7Y5iM .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-sFCygHrmNf {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-tkOPKQv95z {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #232323;
-}
-.cid-sFCygHrmNf .row-links {
-  width: 100%;
-  justify-content: center;
-}
-.cid-sFCygHrmNf .social-row {
-  width: 100%;
-  justify-content: center;
-}
-.cid-sFCygHrmNf .row {
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.cid-sFCygHrmNf .row .foot-menu {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0;
-  margin-bottom: 0;
-}
-.cid-sFCygHrmNf .row .foot-menu li {
-  padding: 0 1rem 1rem 1rem;
-}
-.cid-sFCygHrmNf .row .foot-menu li p {
-  margin: 0;
-}
-.cid-sFCygHrmNf .row .social-list {
-  width: auto;
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-}
-.cid-sFCygHrmNf .row .social-list .mbr-iconfont-social {
-  font-size: 1.5rem;
-  color: #ffffff;
-}
-.cid-sFCygHrmNf .row .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-sFCygHrmNf .row .social-list a {
-  margin: 0;
-  opacity: .5;
-  transition: .2s linear;
-}
-.cid-sFCygHrmNf .row .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-sFCygHrmNf .row .social-list {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-}
-.cid-sFCygHrmNf .row .row-copirayt {
-  word-break: break-word;
-  width: 100%;
-}
-.cid-sFCygHrmNf .row .row-copirayt p {
-  width: 100%;
+  overflow: hidden;
 }

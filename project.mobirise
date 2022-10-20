@@ -50,18 +50,19 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "id52glg14y",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "mbrsiteDomain": "q8fqfw34w6",
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://karate.viahorizonte.life",
     "cookiesAlert": false,
     "gdpr": false,
-    "witsec-white-label": false,
+    "witsec-white-label": true,
     "publishChangesOnly": false,
     "uniqCompNum": 3,
     "versionPublish": "5.6.13",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {

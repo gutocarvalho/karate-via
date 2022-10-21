@@ -1061,8 +1061,8 @@ a {
   color: #353535;
 }
 .cid-sFzyUE9AaP {
-  padding-top: 8rem;
-  padding-bottom: 9rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   background-image: url("../../../assets/images/img-86-1256x942.jpg");
 }
 @media (min-width: 1500px) {
@@ -1169,12 +1169,12 @@ a {
 }
 .cid-sFAZRnJnnI {
   padding-top: 7rem;
-  padding-bottom: 7rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-tkOOfZR1sx {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 6rem;
+  padding-bottom: 3rem;
   background-image: url("../../../assets/images/img-86-1256x942.jpg");
 }
 .cid-tkOOfZR1sx .mbr-fallback-image.disabled {
@@ -1327,7 +1327,7 @@ a {
 .cid-tkOllaz8Cl {
   padding-top: 6rem;
   padding-bottom: 8rem;
-  background: #ffffff;
+  background: #fafafa;
 }
 .cid-tkOllaz8Cl .team-card {
   margin-bottom: 2rem;
@@ -1337,7 +1337,7 @@ a {
   transform: translateY(-10px);
 }
 .cid-tkOllaz8Cl .card-wrap {
-  background: #fafafa;
+  background: #ffffff;
   border-radius: 4px;
 }
 @media (max-width: 991px) {
@@ -1394,7 +1394,7 @@ a {
 .cid-tkP7wDAsJY {
   padding-top: 6rem;
   padding-bottom: 8rem;
-  background: #ffffff;
+  background: #e6c63b;
 }
 .cid-tkP7wDAsJY .team-card {
   margin-bottom: 2rem;
@@ -1404,7 +1404,7 @@ a {
   transform: translateY(-10px);
 }
 .cid-tkP7wDAsJY .card-wrap {
-  background: #fafafa;
+  background: #ffffff;
   border-radius: 4px;
 }
 @media (max-width: 991px) {
